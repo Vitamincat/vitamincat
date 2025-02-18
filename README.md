@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vitamincat
-- 👀 I’m interested in ...justice
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...viral creation
+- 👋 Hi, I’m Uni2042
+- 👀 I’m interested in ...fiscal tightening & budget cuts 
+- 🌱 I’m currently learning ...invvasive fact finding
+- 💞️ I’m looking to collaborate on ...security analysis & counter-measures
 - 📫 How to reach me ...vitamincat2@gmail.com
 
 <!---
